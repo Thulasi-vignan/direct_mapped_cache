@@ -1,4 +1,4 @@
-# direct_mapped_cache
+
 # Direct-Mapped Cache Memory (Verilog Implementation)
 
 ## Overview
